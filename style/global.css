@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+.texting{width: 200px;
+		 height: 200px; 
+		 background-color: #666; 
+		margin-top: 300px;
+		padding-top: 50px;
+	}
+
+.texting p{
+			font-size: 15px;
+			font-family: Arial;
+			font-weight: bold;
+			text-align: center;
